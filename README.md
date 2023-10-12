@@ -50,7 +50,7 @@ To build the ATTiny824 firmware, open the project in Microchip Studio. Build the
 
 ## Documentation
 
-For more detailed information about the board and the I2C protocol, please visit the [project page](https://fibstack.com/projects/rc-model-controller/).
+For more detailed information about the project, please visit the [project page](https://fibstack.com/projects/rc-model-controller/).
 
 ## License Information
 This product is open source!
